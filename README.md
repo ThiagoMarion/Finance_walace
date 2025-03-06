@@ -26,6 +26,7 @@ Entender os hábitos de consumo e identificar os gastos impulsivos. Além disso,
 - Quanto ainda posso gastar hoje, semanalmente e mensalmente para não ultrapassar meu orçamento?
 - Qual o impacto dos pequenos gastos diários (como café ou lanches) e onde estou gastando mais sem perceber?
 - Estou gastando mais ou menos do que no mês passado?
+- Quanto tenho em conta?
 
 ## 2. Planejamento e Metas Financeiras (anual)
 - Quais os principais pontos onde posso cortar gastos supérfluos e otimizar meu orçamento?  
